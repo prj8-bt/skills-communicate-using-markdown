@@ -5,7 +5,6 @@
 ##### This is H5.
 ###### This is H6 hello.
 ####### This is H7... if it exists!
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -13,3 +12,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
